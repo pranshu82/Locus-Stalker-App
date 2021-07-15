@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754827808548",
+    "project_id": "locus-tracker",
+    "storage_bucket": "locus-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754827808548:android:3b0bb2e3f5d9c4d9c62db1",
+        "android_client_info": {
+          "package_name": "com.pranshu_kandoi.locus_stalker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754827808548-4hg1en60qdqqbn7gckhpehg6r3qr46d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUmIhAyqzQx0uE_SmcnTUJjsiVAu_wrzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754827808548-4hg1en60qdqqbn7gckhpehg6r3qr46d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
